@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+*.sqlite
+crm.db
